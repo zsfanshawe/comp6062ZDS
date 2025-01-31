@@ -1,0 +1,35 @@
+.box
+{
+    background-color: blue;
+    color: white;
+    min-height: 100px;
+    text-align: center;
+
+}
+
+.box2
+{
+    background-color: red;
+    color: white;
+    min-height: 100px;
+    text-align: center;
+
+}
+
+
+body{
+    font-size: 14px;
+    background-color: white;
+}
+
+@media (max-width: 650px){
+
+    body {
+        background-color: #b3f0ff;        
+        color:#FFF;
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+    }
+
+}
+
